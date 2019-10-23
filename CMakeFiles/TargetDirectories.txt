@@ -1,0 +1,3 @@
+/home/soumya/santhosh-skyline/skyline_extract/CMakeFiles/rebuild_cache.dir
+/home/soumya/santhosh-skyline/skyline_extract/CMakeFiles/edit_cache.dir
+/home/soumya/santhosh-skyline/skyline_extract/CMakeFiles/sky.dir

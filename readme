@@ -1,0 +1,13 @@
+/**sky line detection**/
+
+This project is to extract sky part from the input image.
+
+The input image dimension must be 1200*800
+
+How to execute:
+  1. Open terminal from source folder
+  2. Enter the command cmake . to build make file.
+  3. Enter the command make to get exe file.
+  4. Create a folder 'upview' and keep sky region camera images in it.
+  5. Run the exe file by passing the comman "./sky"
+  
